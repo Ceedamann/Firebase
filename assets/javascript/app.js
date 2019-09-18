@@ -18,8 +18,8 @@
   var trainDestination
   var trainFrequency;
   var firstTrain;
-  var trainNexArrival;
-  var trainMinutesAway;
+  // var trainNexArrival;
+  // var trainMinutesAway;
 // add-train submit button//
   $("#add-train").on('click',function(event){
     event.preventDefault();
